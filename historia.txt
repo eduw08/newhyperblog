@@ -1,7 +1,11 @@
 Esta es la historia de Eduardo Wong
 
+<<<<<<< HEAD
 Eduardo tiene 29 años y vive en Lima , Peru
 
 El 2 de junio cumple 30 años
 
 En persona no es tan chino como cuando lo ves por facebook
+=======
+Eduardo tiene 29 años y pronto empezará con una maestria en Inteligencia Artificial
+>>>>>>> 19bc507
